@@ -26,5 +26,5 @@ print("Number of lines not starting with 'T':", count)
 ## Output
 ![image](https://github.com/user-attachments/assets/0099607c-c846-4975-88dd-4d61a612e0b1)
 
-## Result
+# Result
 Thus the program has been successfully executed
